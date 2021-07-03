@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "51911a383da1224ed3d71928de2f58e721d9046a",
+    "author": "richelbilderbeek <richel@richelbilderbeek.nl>",
+    "time": "2021-07-03 07:33:08",
+    "files": 1,
+    "merge": false,
+    "message": "Add GHA logo\n"
+  },
+  "remote": "https://github.com/ropensci/tracerer",
+  "pkg": "tracerer"
+}
