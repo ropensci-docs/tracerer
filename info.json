@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "82c8d826a019147b5e99412cf33e7401b94f6125",
+    "author": "richelbilderbeek <richel@richelbilderbeek.nl>",
+    "time": "2023-09-25 16:50:43",
+    "files": 2,
+    "merge": false,
+    "message": "Use regular DOI again\n"
+  },
+  "repo": "https://github.com/ropensci/tracerer",
+  "pkg": "tracerer"
+}
