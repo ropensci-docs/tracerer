@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "64ea3ef3a9e4633b82a5dc1cedcccfc57b70284e",
+    "author": "richelbilderbeek <rjcbilderbeek@gmail.com>",
+    "time": "2026-08-13T12:27:17Z",
+    "files": 1,
+    "merge": false,
+    "message": "Use 'main' for main branch\n"
+  },
+  "repo": "https://github.com/ropensci/tracerer",
+  "pkg": "tracerer",
+  "time": "2026-09-12T08:53:16Z"
+}
